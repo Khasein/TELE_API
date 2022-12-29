@@ -1,0 +1,12 @@
+Привет! Это Телеграмм Бот Converter
+Для его запуска необходимо взять токен из ТГ Бота : https://t.me/BotFather
+Как создать идентификатор бота можно посмотреть тут : https://youtu.be/ayUBlf9pvn0
+
+Чтобы запустить код Python 3 необходимо установить библиотеки :
+
+Для Windows ---->$ pip install aiogram,beautifulsoup,requests
+Для MAC OS ---->$ pip3 install aiogram,beautifulsoup,requests
+
+Данные были взяты из сайта : https://www.banki.ru/products/currency/cb/
+
+P.s это первая версия бота Converter
